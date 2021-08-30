@@ -4,11 +4,14 @@
 ### MW 09:35-10:50AM
 ### Scripps Campus, Steele Hall, 229
 
-## [Syllabus](https://github.com/scrippscollege/MS038_F2021/) | [Discord](https://discord.gg/FzzXPwm4)
+## [Syllabus](https://github.com/scrippscollege/MS038_F21/) | [Discord](https://discord.gg/FzzXPwm4)
+
+<img src="imgs/README/monalisa_hinton.jpg" alt="monalisa_hinton" style="zoom:33%;" />
 
 
 
 ## DESCRIPTION
+
 Machine learning (ML) is a new branch of computer science that provides services for automatic translation and speech recognition (Apple's Siri, Amazon's Alexa, Google Assistant), product recommendations (Netflix, Amazon, etc.), transportation (Waymo, Tesla, the City of Copenhagen), and political campaigns (Facebook and Cambridge Analytica). ML is becoming a familiar presence in our lives; computer scientists and developers introduce new applications every day for chatting with humans, recommending the best course of action, and making predictions about the future. In spite of all the press, ML remains daunting to non-specialists. This class seeks to mend this divide. This class will introduce ML concepts to students without prior experience and provide templates to get students working in ML right away.
 
 We will study and remake artworks by Mario Klingemann, Anna Ridler, Sougwen Chung, Memo Akten, Helena Sarin, Tom White, and others. We will try several techniques and frameworks such as image segmentation, CycleGAN, pix2pix, and Tensorflow. Students will propose and work on a larger project in the last third of the class.
