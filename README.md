@@ -14,9 +14,9 @@
 
 Machine learning (ML) is a new branch of computer science that provides services for automatic translation and speech recognition (Apple's Siri, Amazon's Alexa, Google Assistant), product recommendations (Netflix, Amazon, etc.), transportation (Waymo, Tesla, the City of Copenhagen), and political campaigns (Facebook and Cambridge Analytica). ML is becoming a familiar presence in our lives; computer scientists and developers introduce new applications every day for chatting with humans, recommending the best course of action, and making predictions about the future. In spite of all the press, ML remains daunting to non-specialists. This class seeks to mend this divide. This class will introduce ML concepts to students without prior experience and provide templates to get students working in ML right away.
 
-We will study and remake artworks by Mario Klingemann, Anna Ridler, Sougwen Chung, Memo Akten, Helena Sarin, Tom White, and others. We will try several techniques and frameworks such as image segmentation, CycleGAN, pix2pix, and Tensorflow. Students will propose and work on a larger project in the last third of the class.
+We will study and remake artworks by Mario Klingemann, Anna Ridler, Sougwen Chung, Memo Akten, Helena Sarin, Tom White, and others. We will try several techniques and frameworks such as image segm	entation, CycleGAN, pix2pix, and Tensorflow. Students will propose and work on a larger project in the last third of the class.
 
-Prerequisite: Any experience with programming, especially with Python.
+Prerequisite: Any experience with programming, especially with p5.js, ml5.js, and Python.
 
 ## QUESTIONS
 
@@ -25,6 +25,99 @@ Prerequisite: Any experience with programming, especially with Python.
 -   How does AI impact you?
 -   Are you excited about AI, concerned about it, or both?
 -   What topics in AI interest you?
+
+
+
+## Required Instructional Materials
+
+### Free [P5.js editor](https://editor.p5js.org) account
+
+To work on ml5.js in an online context.
+
+### [Free GitHub account](https://github.com), https://github.com
+
+An online development platform. Our syllabus lives on GitHub. Essential. 
+
+### Free [Google Colab account](https://colab.research.google.com/) with Google Drive
+
+To run ML code in the cloud. Integrate is with Google Drive for the full experience!
+
+
+
+## Recommended Material
+
+### *The Information: A History, a Theory, a Flood*, James Gleick
+
+[Aesthetic Programing](http://aesthetic-programming.net), by Winnie Soon & Geoff Cox, http://aesthetic-programming.net. 
+
+## Assessment
+
+### 40% Weekly assignments
+
+### 40% Final project (proposal and completion)
+
+### 20% Attendance + Participation
+
+### Final Project Grading is based on the following factors:
+
+1. Perseverance
+2. Faithfulness to the proposal
+3. Creative engagement
+4. Application of critical thinking
+5. Preparation (research, accumulation of needed materials, time management) 
+6. Success of the finished piece
+
+## Course and Institutional Policies
+
+#### **COVID-19 Policies**:
+
+Please wear your masks during class. Please consult https://www.scrippscollege.edu/scripps-strong/return-to-campus-plan/ for the latest information. 
+
+#### Attendance Policy:
+
+You may miss up to four classes and still pass this class. Note that 60 percent of the students' grade is given for work on in-class activities, and that these cannot be repeated except in extraordinary circumstances. 
+
+#### Participation Policy:
+
+You are expected to be attentive, ask questions, work alone and with a partner to complete your work. 
+
+#### Late Assignment and Missed Exam Policy:
+
+Labs and in-class activities will not be repeated except in extraordinary circumstances. 
+
+#### Academic Integrity:
+
+ Students are expected to abide by the Scripps College academic integrity code. You must submit work that is your own and which is original work for this class. Also, all sources must be documented. Omission of sources is considered plagiarism, even if it is an oversight and/or unintentional. All plagiarism will be reported to the department and Dean’s office for further action. For this course, collaboration is allowed in on lab activities and assignments IFF all contributions are documented. 
+
+Permissible cooperation should never involve one student having possession of a copy of all or part of work done by someone else, in any form (e.g. email, Word doc, Box file, Google sheet, or a hard copy). Also, assignments that have been previously submitted in another course may not be submitted for this course, and I discourage you from finding solutions on Stack Overflow or other online forums to paste into your notebooks.
+
+#### Accommodations for Students with Disabilities:
+
+ Scripps students seeking to register to receive academic accommodations must contact Academic Resources and Services Staff (ARS) at ars@scrippscollege.edu to formalize accommodations. Students will be required to submit documentation and meet with a staff member before being approved for accommodations. Once ARS has authorized academic accommodations, a formal notification will be sent out.
+
+A student’s home campus is responsible for establishing and providing accommodations. If you are not a Scripps student, you must contact your home institution to establish accommodations. Below is a list of coordinators on the other campuses:
+
+CMC - Julia Easley, julia.easley@claremontmckenna.edu
+
+Harvey Mudd – Deborah Kahn, dkahn@hmc.edu
+
+Pitzer- Gabriella Tempestoso, gabriella_tempestoso@pitzer.edu
+
+Pomona - Jan Collins-Eaglin, Jan.Collins-Eaglin@pomona.edu
+
+ 
+
+#### Inclusivity Statement:
+
+ This class is an example of Scripps College’s commitment to changing the norms in Computer Science. Creating this initiative at a liberal arts women's college is both a bold step towards correcting gender imbalance in this field. 
+
+Our community represents a wide variety of backgrounds and perspectives. We are committed to providing an atmosphere for learning that respects diversity.   
+
+
+
+#### Institutional Policies:
+
+ Students are responsible for reviewing Scripps College’s policies on incomplete grades, sexual misconduct, adverse weather, as well as student evaluation of instruction, and days of special concern/religious holiday. 
 
 ## OUTLINE
 
